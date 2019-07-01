@@ -1,0 +1,10 @@
+C:\Users\Student\Desktop\DossierDeCode\C#\ADO\Ado1\Ado1\bin\Debug\Ado1.dacpac
+C:\Users\Student\Desktop\DossierDeCode\C#\ADO\Ado1\Ado1\bin\Debug\Ado1.dll
+C:\Users\Student\Desktop\DossierDeCode\C#\ADO\Ado1\Ado1\bin\Debug\Ado1.pdb
+C:\Users\Student\Desktop\DossierDeCode\C#\ADO\Ado1\Ado1\obj\Debug\Ado1.sqlprojAssemblyReference.cache
+C:\Users\Student\Desktop\DossierDeCode\C#\ADO\Ado1\Ado1\obj\Debug\Model.xml
+C:\Users\Student\Desktop\DossierDeCode\C#\ADO\Ado1\Ado1\obj\Debug\refactor.xml
+C:\Users\Student\Desktop\DossierDeCode\C#\ADO\Ado1\Ado1\obj\Debug\postdeploy.sql
+C:\Users\Student\Desktop\DossierDeCode\C#\ADO\Ado1\Ado1\obj\Debug\predeploy.sql
+C:\Users\Student\Desktop\DossierDeCode\C#\ADO\Ado1\Ado1\obj\Debug\Ado1.dll
+C:\Users\Student\Desktop\DossierDeCode\C#\ADO\Ado1\Ado1\obj\Debug\Ado1.pdb
